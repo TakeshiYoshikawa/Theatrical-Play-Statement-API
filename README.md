@@ -1,4 +1,4 @@
-# Theatrical-Statement
+# Theatrical Play Statement API
 This application is used by a theater company to generate printed statements from their clients' invoices. The billing is based on the number of lines in each play presented, the size of the audience, and the genre of the play, which currently includes tragedy and comedy. For each presentation, credits are generated as a loyalty mechanism, allowing clients to obtain discounts on future presentations.
 
 # Technologies
