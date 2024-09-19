@@ -9,3 +9,7 @@ This application is used by a theater company to generate printed statements fro
 
 # Architectural approaches
 This application approaches considering Design Patterns, DDD, SOLID principles. Implementation of asynchronous processing of statements, REST and API auto-documentation using Swagger. Finally, data persistence using PostgreSQL.
+
+# Diagram
+## Infrastructure
+![alt](./img/ClassDiagram1.png)
