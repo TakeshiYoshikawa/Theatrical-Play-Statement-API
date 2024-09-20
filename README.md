@@ -13,3 +13,10 @@ This application approaches considering Design Patterns, DDD, SOLID principles. 
 # Diagram
 ## Infrastructure
 ![alt](./img/ClassDiagram1.png)
+
+# How to Run
+1. Install [PostgreSQL](https://www.postgresql.org/download/);
+2. Open this .sln file using Visual Studio 2019 or higher, selecting TheatricalPlayersRefactoringKata.API as startup project and run (F5).
+
+# Future improvements
+Dockerize the application (API). However, due to technical limitations of how EntityFramework handles DB.Context.Migrate() it is going to be necessary to manage database creation with raw SQL queries or ADO.NET.
